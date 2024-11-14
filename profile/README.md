@@ -3,6 +3,9 @@
 We're a community & monthly meetup for JavaScript developers based in Lisbon. Sponsored by [Xata.io](https://xata.io/) 🦋
 
 ❤️ [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
+
+## [😍 Give a talk at LisboaJS](https://github.com/lisboajs/community/issues/new/choose)
+This is a way of giving back to our local community and to help us grow. We welcome and encourage speakers that are passing by our city to pitch us a talk. We'll take you for good food afterwards.
 <!--
 
 **Here are some ideas to get you started:**
