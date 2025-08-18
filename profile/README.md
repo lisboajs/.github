@@ -1,6 +1,6 @@
 ## 🌊 Welcome to LisboaJS
 
-We're a community & monthly meetup for JavaScript developers based in Lisbon. Sponsored by [Xata.io](https://xata.io/) 🦋
+We're a community & monthly meetup for JavaScript developers based in Lisbon. Sponsored by []
 
 ❤️ [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
