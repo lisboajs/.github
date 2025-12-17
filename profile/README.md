@@ -5,9 +5,11 @@ We're a community for JavaScript developers and web enthusiasts based in Lisbon.
 ## ❤️ [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
 
-## [Join our Upcoming Event](https://luma.com/6li75w89)
-[<img width="500" height="405" alt="LisboaJS-1" src="https://github.com/user-attachments/assets/d9f57a1b-b606-456c-bcb3-571787d71dcd" />](https://luma.com/6li75w89)
-[<img width="500" height="405" alt="LisboaJS-2" src="https://github.com/user-attachments/assets/3f3a3e9d-3be8-4c70-bf57-385d46190611" />](https://luma.com/6li75w89)
+## [Join our Upcoming Event](https://luma.com/y8qe9gcc)
+<img width="500" height="405" alt="LisboaJS: Hugo Sousa" src="https://github.com/user-attachments/assets/6b45e122-82a5-4138-8100-9c2f560366bd" />
+<img width="500" height="405" alt="LisboaJS: Faris Aziz" src="https://github.com/user-attachments/assets/391c4c4a-75c8-4b75-af61-f3a41dfe9a55" />
+
+
 
 
 ## [😍 Give a talk at LisboaJS](https://github.com/lisboajs/community/issues/new/choose)
