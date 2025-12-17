@@ -1,6 +1,6 @@
 ## 🌊 Welcome to LisboaJS
 
-We're a community for JavaScript developers and web enthusiasts based in Lisbon. Sponsored by [Storyblok](https://www.storyblok.com/).
+We're a community for JavaScript developers and web enthusiasts based in Lisbon.
 
 ## ❤️ [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
