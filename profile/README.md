@@ -6,8 +6,8 @@ We're a community for JavaScript developers and web enthusiasts based in Lisbon.
 
 
 ## [Join our Upcoming Event](https://luma.com/y8qe9gcc)
-<img width="500" height="405" alt="LisboaJS: Hugo Sousa" src="https://github.com/user-attachments/assets/6b45e122-82a5-4138-8100-9c2f560366bd" />
-<img width="500" height="405" alt="LisboaJS: Faris Aziz" src="https://github.com/user-attachments/assets/391c4c4a-75c8-4b75-af61-f3a41dfe9a55" />
+<img width="500"  alt="LisboaJS: Hugo Sousa" src="https://github.com/user-attachments/assets/6b45e122-82a5-4138-8100-9c2f560366bd" />
+<img width="500"  alt="LisboaJS: Faris Aziz" src="https://github.com/user-attachments/assets/391c4c4a-75c8-4b75-af61-f3a41dfe9a55" />
 
 
 
