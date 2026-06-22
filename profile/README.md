@@ -1,15 +1,13 @@
 ## 🌊 Welcome to LisboaJS
 
-We're a community for JavaScript developers and web enthusiasts based in Lisbon.
+We're a community for JavaScript developers and web enthusiasts based in Lisbon. Currently sponsored by [PostHog](https://posthog.com/) and [Supabase](https://supabase.com/).
 
 ## ❤️ [Join our Community on Telegram](https://t.me/+QDaM-zlVlaEwMjVk) 
 
 
-## [Join our Upcoming Event](https://luma.com/y8qe9gcc)
-<img width="500"  alt="LisboaJS: Hugo Sousa" src="https://github.com/user-attachments/assets/6b45e122-82a5-4138-8100-9c2f560366bd" />
-<img width="500"  alt="LisboaJS: Faris Aziz" src="https://github.com/user-attachments/assets/391c4c4a-75c8-4b75-af61-f3a41dfe9a55" />
-
-
+## [Join our Upcoming Event](https://luma.com/wos1qbac)
+<img width="500"  alt="LisboaJS: Pedro Rodrigues" src="https://github.com/user-attachments/assets/9d3fac4d-56eb-4f91-8a7c-c65450dc0b30" />
+<img width="500"  alt="LisboaJS: James Corbett" src="https://github.com/user-attachments/assets/be3612ed-96b5-499b-abc7-8299a08f7e3b" />
 
 
 ## [😍 Give a talk at LisboaJS](https://github.com/lisboajs/community/issues/new/choose)
